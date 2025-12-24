@@ -22,6 +22,8 @@ import (
 	"github.com/spf13/cobra"
 )
 
+// 测试一下
+
 var (
 	explain        bool
 	backend        string
